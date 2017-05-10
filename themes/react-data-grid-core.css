@@ -8,13 +8,11 @@
   background-color: #ffffff;
   color: inherit;
   padding: 0px;
-  outline: 1px solid #e7eaec;
   clear : both;
 }
 
 .react-grid-Grid {
   background-color: #ffffff;
-  border: 1px solid #dddddd;
 }
 
 .react-grid-Canvas {
